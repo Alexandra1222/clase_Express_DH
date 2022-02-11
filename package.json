@@ -1,0 +1,15 @@
+{
+  "name": "clase-de-express-dh",
+  "version": "1.0.0",
+  "description": "proyecto clase 19",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon src/app.js -e js,ejs,json,mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
